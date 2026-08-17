@@ -252,7 +252,7 @@ Focused on developing **scalable, real-world AI solutions** across the full deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabtharishi1501&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFC300&icon_color=00A693&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sabtharishi1501&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FFC300&icon_color=00A693&text_color=C9D1D9" width="48%"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabtharishi1501&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FFC300&text_color=C9D1D9" width="40%"/>
 
